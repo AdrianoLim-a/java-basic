@@ -3,6 +3,7 @@ public class SmartTv {
     int canal = 1;
     int volume =  25;
 
+
     public void ligar(){
         ligada = true;
     }
