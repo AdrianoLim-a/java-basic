@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PlanoOperadora",
+            "request": "launch",
+            "mainClass": "PlanoOperadora",
+            "projectName": "java-basic_4221d64a"
+        },
+        {
+            "type": "java",
+            "name": "SistemaMedida",
+            "request": "launch",
+            "mainClass": "SistemaMedida",
+            "projectName": "java-basic_4221d64a"
+        },
+        {
+            "type": "java",
+            "name": "ResultadoEscolar",
+            "request": "launch",
+            "mainClass": "ResultadoEscolar",
+            "projectName": "java-basic_4221d64a"
+        },
+        {
+            "type": "java",
+            "name": "CaixaEletronico",
+            "request": "launch",
+            "mainClass": "CaixaEletronico",
+            "projectName": "java-basic_4221d64a"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -16,7 +44,12 @@
             "request": "launch",
             "mainClass": "AboutMe",
             "projectName": "java-basic_4221d64a",
-            "args": ["Adriano", "Lima", "31", "1.82"]
+            "args": [
+                "Adriano",
+                "Lima",
+                "31",
+                "1.82"
+            ]
         }
     ]
 }
