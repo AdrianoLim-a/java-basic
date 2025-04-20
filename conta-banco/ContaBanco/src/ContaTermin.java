@@ -13,7 +13,7 @@ public class ContaTermin {
  
             int agenciaVerificador = scanner.nextInt();
             
-            System.out.println("O numero da sua Conta");
+            System.out.println("Digite o número da sua Conta");
  
             String contaVerificador = scanner.next();
             
