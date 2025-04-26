@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FormatadorDeCep",
+            "request": "launch",
+            "mainClass": "FormatadorDeCep",
+            "projectName": "java-basic_4221d64a"
+        },
+        {
+            "type": "java",
+            "name": "ExemploExcecao",
+            "request": "launch",
+            "mainClass": "ExemploExcecao",
+            "projectName": "java-basic_4221d64a"
+        },
+        {
+            "type": "java",
+            "name": "ContaTermin",
+            "request": "launch",
+            "mainClass": "ContaTermin",
+            "projectName": "java-basic_4221d64a"
+        },
+        {
+            "type": "java",
             "name": "ExemploDoWhile",
             "request": "launch",
             "mainClass": "ExemploDoWhile",

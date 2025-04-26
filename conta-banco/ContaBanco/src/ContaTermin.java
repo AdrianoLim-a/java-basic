@@ -7,14 +7,11 @@ public class ContaTermin {
         String conta ="067-8";
         String nomeCliente = "Adriano Lima";
         double saldo = 237.48;
-
         try (Scanner scanner = new Scanner(System.in)) {
             System.out.println("Por favor, digite o número da Agência");
- 
             int agenciaVerificador = scanner.nextInt();
             
             System.out.println("Digite o número da sua Conta");
- 
             String contaVerificador = scanner.next();
             
             if(agenciaVerificador == agencia  && (contaVerificador.equals(conta))){
