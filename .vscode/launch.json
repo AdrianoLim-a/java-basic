@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Contador",
+            "request": "launch",
+            "mainClass": "Contador",
+            "projectName": "java-basic_4221d64a"
+        },
+        {
+            "type": "java",
             "name": "ProcessoSeletivo",
             "request": "launch",
             "mainClass": "candidatura.ProcessoSeletivo",
