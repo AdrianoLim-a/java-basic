@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Fabrica",
+            "request": "launch",
+            "mainClass": "estabelecimento.Fabrica",
+            "projectName": "exemplo-pacotes"
+        },
+        {
+            "type": "java",
             "name": "CalculadoraDeMedias",
             "request": "launch",
             "mainClass": "CalculadoraDeMedias",
